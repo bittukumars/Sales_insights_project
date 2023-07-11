@@ -1,13 +1,29 @@
-# Sales Insights Data Analysis Project Using SQL and Power BI
+#Sales Insights Data Analysis Project
+This project focuses on analyzing the sales data of Atliq Hardware using SQL and Power BI. The goal is to provide valuable insights and enable data-informed decision-making within the organization. The project involved running various SQL queries to retrieve important metrics such as total sales amount, total sales quantity, average sales quantity, and more. Additionally, data cleaning and transformation were performed using Power Query Editor, followed by the creation of a comprehensive dashboard in Power BI.
 
-In this project, i analyzed the data of Atliq Hardware and run the several query to find total sales_amount, Total sales_qty, avg sales_qty etc. for running the query,  i use many sql command, clause, function, operator like select, delete, group by, sum, count etc. after that done the transformation with the help of power query editior. 
-And then i created a dashboard. With the help of dashboard, Stakeholders can easily understand total revenue, total profit, top 5 customers who used to shop most, top 5 regions in which sales are most etc.
+Project Objectives
+Build a sales insights solution for AtliQ Hardware to facilitate data-informed decision-making.
+Design a Power BI dashboard to visualize and analyze the sales trends of AtliQ Hardware goods.
+Perform data cleaning and transformation using Power BI.
+Provide answers to common business questions, such as identifying the top 5 customers, top 5 products, sales trends, and expense trends.
+Project Steps
+Data Analysis with SQL:
 
- Built a sales insights solution for AtliQ Hardware that helped bring data informed decision making
-in the organization
+Utilized various SQL commands, clauses, functions, and operators (e.g., SELECT, DELETE, GROUP BY, SUM, COUNT) to analyze the sales data of Atliq Hardware.
+Ran queries to calculate important metrics such as total sales amount, total sales quantity, and average sales quantity.
+Data Cleaning and Transformation with Power BI:
 
- Designed a power BI dashboard to understand AtliQ Hardware goods sales trend
+Leveraged Power Query Editor to clean and transform the raw sales data.
+Performed necessary data cleaning operations, such as removing duplicates, handling missing values, and standardizing formats.
+Transformed the data to make it suitable for analysis and visualization.
+Power BI Dashboard Creation:
 
- Data cleaning and transformation was done in Power BI
-
- This insights solution helped business get answers for common questions such as top 5 customers, top 5 products, sales, and expense trend etc.
+Designed an intuitive and informative dashboard using Power BI.
+Incorporated visualizations, such as charts, graphs, and tables, to present the sales insights in an easily understandable format.
+The dashboard highlights key metrics, including total revenue, total profit, top 5 customers based on purchase frequency, and the top 5 regions with the highest sales.
+Benefits
+Enables data-informed decision-making within the organization.
+Provides a clear understanding of the sales trends for AtliQ Hardware goods.
+Helps identify the top customers, top products, and sales and expense trends.
+Empowers stakeholders to make informed business decisions based on the insights presented in the dashboard.
+By completing this project, the sales team at AtliQ Hardware can gain valuable insights into their sales performance, identify areas for improvement, and make informed decisions to drive business growth.
